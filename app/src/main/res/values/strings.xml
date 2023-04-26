@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="message">BMI Calculator</string>
+    <string name="seu_imc">Your BMI is:</string>
+    <string name="message_classification">Classification: %1$s!</string>
+    <string name="see_table_below_for_reference">See table below for reference:</string>
+</resources>
