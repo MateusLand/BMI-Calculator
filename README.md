@@ -35,7 +35,7 @@ Mateus Land (follow me on [LinkedIn](https://www.linkedin.com/in/maateusland/))
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2024 Mateus Land
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
